@@ -2,7 +2,7 @@
   "name": "Buku Saku Anggota — DV-Team NP",
   "short_name": "Buku Saku",
   "description": "Materi singkat, jelas, dan mudah diakses untuk semua anggota.",
-  "start_url": "/BukuIphones.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
